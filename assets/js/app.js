@@ -5,7 +5,7 @@ window.onload = function () {
   var txtDos = document.getElementById('text');
 
   btn.addEventListener('click', function() {
-    txt.innerHTML = '<h2>Git & Github TE AMAMOS</h2>';
+    txt.innerHTML = '<h2>Git & Github TE ODIAMOS</h2>';
   })
 
   btnDos.addEventListener('click', function() {
